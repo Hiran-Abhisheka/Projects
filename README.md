@@ -1,6 +1,6 @@
 # Projects
 
-# Project Proposal: Uber-Inspired Campus Shuttle Service Web Application
+# 01.Project Proposal: Uber-Inspired Campus Shuttle Service Web Application
 
 ## Executive Summary
 
@@ -56,7 +56,7 @@ This Uber-inspired campus shuttle service application will set a new standard fo
 *For further details, customization, or to request a formal project timeline and budget, please contact the development team.*
 
 
-# Project Proposal: Campus Student Social Network Platform
+# 02.Project Proposal: Campus Student Social Network Platform
 
 ## Executive Summary
 
